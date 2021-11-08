@@ -1,13 +1,18 @@
 <!DOCTYPE html>
-<h1>Megan Calahan</h1>
+<html lang="en">
+
+<h1>
+  Megan Calahan
+    </h1>
+    
 <br>
-  <body>
   <nag>
   <a href="https://www.coursera.org/learn/html/peer/hIMvz/final-project">One</a>  |
   <a href="http://intro-webdesign.com/projectdescription.html">Two</a>  |
   <a href="https://www.coursera.org/learn/html/lecture/4dOi4/3-04b-uploading-to-github-pages-account">Three</a> |
   <a href="https://tenor.com/view/fambo-challenge-completed-confetti-winning-accomplish-gif-17021400">Cheers To Learning HTML 5</a>
   </nag>
+    
 <br>
   <h2>Favorite Foods</h2>
    <ul>
@@ -36,3 +41,4 @@
        <body>
          <img src="http://www.intro-webdesign.com/images/newlogo.png">This page was created by Megan Calahan & Colleen Van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro To Web Design</a>
          </body>
+</html>
