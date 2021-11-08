@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h1>Megan Calahan</h1>
 <br>
-
+  <div>
   <body>
   <nag>
   <a href="https://www.coursera.org/learn/html/peer/hIMvz/final-project">One</a>  |
@@ -19,13 +19,15 @@
     <li>Grapes</li>
     <li>Cheesecake</li>
    </ul>
+  
 <br>
   <h2>Achievements</h2>
     <ul>
-    <li><a>Progress In This Course (100%)<a></li>
-    <li><a>Progress In The Specialization Capstone (20%)</a></li>
-    <li><a>Progress In Life Goals (70%)</a></li>
+    <li>Progress In This Course (100%)</li>
+    <li>Progress In The Specialization Capstone (20%)</li>
+    <li>Progress In Life Goals (70%)</li>
     </ul>
+      
   <br>
    <h2>More About Me</h2>
       <p>My Childhood</p>
@@ -34,7 +36,6 @@
   </summary>
          
 <br>
-      <div class="frame">
        <body>
-         <img src="http://www.intro-webdesign.com/images/newlogo.png"></div></html>This page was created by Megan Calahan & Colleen Van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com"</a>Intro To Web Design</a>
+         <img src="http://www.intro-webdesign.com/images/newlogo.png">This page was created by Megan Calahan & Colleen Van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro To Web Design</a>
          </body>
