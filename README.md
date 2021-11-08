@@ -1,7 +1,6 @@
-<!DOCTYPE html><megancalahan.github.io/README.md></html>
+<!DOCTYPE html>
 <h1>Megan Calahan</h1>
 <br>
-  <div>
   <body>
   <nag>
   <a href="https://www.coursera.org/learn/html/peer/hIMvz/final-project">One</a>  |
@@ -9,7 +8,6 @@
   <a href="https://www.coursera.org/learn/html/lecture/4dOi4/3-04b-uploading-to-github-pages-account">Three</a> |
   <a href="https://tenor.com/view/fambo-challenge-completed-confetti-winning-accomplish-gif-17021400">Cheers To Learning HTML 5</a>
   </nag>
-</div>
 
 <br>
   <h2>Favorite Foods</h2>
