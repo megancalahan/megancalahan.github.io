@@ -35,4 +35,6 @@
          
 <br>
       <div class="frame">
-        <img src="http://www.intro-webdesign.com/images/newlogo.png"></div></html> <p>This page was created by Megan Calahan & Colleen Van Lent. To learn more about web design, visit<a href="http://www.intro-webdesign.com"</a><p>Intro To Web Design</p></a>
+       <body>
+         <img src="http://www.intro-webdesign.com/images/newlogo.png"></div></html>This page was created by Megan Calahan & Colleen Van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com"</a>Intro To Web Design</a>
+         </body>
